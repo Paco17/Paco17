@@ -2,7 +2,7 @@
 
 <img src="imgs/Programmer-bg.jpg" width="80%" height="500px"/>
 
-<img src="imgs/RV-Animated.png" width="20%"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Don't+trying+is+worse+than+failure;Currently+leveling+up+at+Backend+Skills;Growing+with+vision+for+better+solutions" alt="Typing SVG" width="80%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Don't+trying+is+worse+than+failure;Currently+leveling+up+at+Backend+Skills;Growing+with+vision+for+better+solutions" alt="Typing SVG" width="80%"/>
 
 <a href="https://linkedin.com/in/franciscorv"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 <a href="mailto:326franciscorv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
@@ -34,13 +34,13 @@
 
 ## 🚀 Projects
 
-<div align="center">
+<div align="center" display="flex">
 
 <a href="https://github.com/Paco17/PORTFOLIO">
-  <img src="imgs/Project-Portfolio.png" width="50%" height="600px" />
+  <img src="imgs/Project-Portfolio.png" width="45%" height="250px" />
 </a>
 <a href="https://github.com/Paco17/Duck-Hunt">
-  <img src="imgs/Project-Duck-Hunt.png" width="50%" height="600px"/>
+  <img src="imgs/Project-Duck-Hunt.png" width="45%" height="238px"/>
 </a>
 
 </div>
