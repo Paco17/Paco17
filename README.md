@@ -37,10 +37,10 @@
 <div align="center">
 
 <a href="https://github.com/Paco17/PORTFOLIO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Paco17&repo=PORTFOLIO&theme=tokyonight" />
+  <img src="imgs/Project-Portfolio.png" width="50%" height="600px" />
 </a>
 <a href="https://github.com/Paco17/Duck-Hunt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Paco17&repo=Duck-Hunt&theme=tokyonight" />
+  <img src="imgs/Project-Duck-Hunt.png" width="50%" height="600px"/>
 </a>
 
 </div>
