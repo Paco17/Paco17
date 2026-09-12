@@ -4,9 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Don't+trying+is+worse+than+failure;Currently+leveling+up+at+Backend+Skills;Growing+with+vision+for+better+solutions" alt="Typing SVG" width="80%"/>
 
-<a href="https://linkedin.com/in/franciscorv"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/francisco-ramos17/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 <a href="mailto:326franciscorv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-<a href="https://github.com/Paco17/PORTFOLIO"><img src="https://img.shields.io/badge/-Portfolio-2E3192?style=for-the-badge&logo=Vercel&logoColor=white" /></a>
+<a href="https://portfolio-sigma-six-9t356gpgc1.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-2E3192?style=for-the-badge&logo=Vercel&logoColor=white" /></a>
 
 </div>
 
